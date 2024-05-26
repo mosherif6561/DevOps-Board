@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - Faculty of Computers and Information\\Desktop\\DevOps-Board-main\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0B1ED3-6DFB-4C6E-93E0-54B2E0C97BA1}|Backend.csproj|d:\\onedrive - faculty of computers and information\\desktop\\devops-board-main\\backend\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0B1ED3-6DFB-4C6E-93E0-54B2E0C97BA1}|Backend.csproj|solutionrelative:controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0B1ED3-6DFB-4C6E-93E0-54B2E0C97BA1}|Backend.csproj|d:\\onedrive - faculty of computers and information\\desktop\\devops-board-main\\backend\\migrations\\20240506211502_devops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0B1ED3-6DFB-4C6E-93E0-54B2E0C97BA1}|Backend.csproj|solutionrelative:migrations\\20240506211502_devops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\OneDrive - Faculty of Computers and Information\\Desktop\\DevOps-Board-main\\Backend\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controller\\AuthController.cs",
+              "ToolTip": "D:\\OneDrive - Faculty of Computers and Information\\Desktop\\DevOps-Board-main\\Backend\\Controller\\AuthController.cs",
+              "RelativeToolTip": "Controller\\AuthController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:28:35.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240506211502_devops.cs",
+              "DocumentMoniker": "D:\\OneDrive - Faculty of Computers and Information\\Desktop\\DevOps-Board-main\\Backend\\Migrations\\20240506211502_devops.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240506211502_devops.cs",
+              "ToolTip": "D:\\OneDrive - Faculty of Computers and Information\\Desktop\\DevOps-Board-main\\Backend\\Migrations\\20240506211502_devops.cs",
+              "RelativeToolTip": "Migrations\\20240506211502_devops.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:15:02.521Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
